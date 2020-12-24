@@ -9,7 +9,7 @@
   "author": "sapna",
   "license": "ISC",
   "dependencies": {
-    "date-and-time": "^0.10.0",
+    "date-and-time": "^0.14.2",
     "express": "^4.17.1",
     "file-type": "^12.3.0",
     "formidable": "^1.2.1",
